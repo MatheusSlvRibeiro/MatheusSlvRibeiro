@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Silva</h1>
 <h3 align="center">i'm a student at Estácio de Sá.</h3>
 
-- Projects:
-Responsive portifolio [Thalita Website](https://thalitacilene.netlify.app/) </br>
-Full Website for Reserva Cultural São Paulo / Niterói (https://cinema-reserva-cultural.vercel.app/)
+Projects:
+-Responsive portifolio [Thalita Website](https://thalitacilene.netlify.app/) </br>
+-Full Website for Reserva Cultural São Paulo / Niterói (https://cinema-reserva-cultural.vercel.app/)
 
-- 🌱 I’m currently learning **JavaScript, Java, Python...**
+🌱 I’m currently learning **JavaScript, Java, Python...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
