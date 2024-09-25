@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Silva</h1>
 <h3 align="center">i'm a student at Estácio de Sá.</h3>
 
-Projects:
+Projects: </br>
 -Responsive portifolio [Thalita Website](https://thalitacilene.netlify.app/) </br>
 -Full Website for Reserva Cultural São Paulo / Niterói (https://cinema-reserva-cultural.vercel.app/)
 
