@@ -2,7 +2,7 @@
 <h3 align="center">i'm a student at Estácio de Sá.</h3>
 
 - Projects:
-Responsive portifolio [Thalita Website](https://thalitacilene.netlify.app/)
+Responsive portifolio [Thalita Website](https://thalitacilene.netlify.app/) </br>
 Full Website for Reserva Cultural São Paulo / Niterói (https://cinema-reserva-cultural.vercel.app/)
 
 - 🌱 I’m currently learning **JavaScript, Java, Python...**
