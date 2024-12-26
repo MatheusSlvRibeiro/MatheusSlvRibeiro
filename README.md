@@ -1,16 +1,58 @@
-<h1 align="center">Hi 👋, I'm Matheus Silva</h1>
-<h3 align="center">i'm a student at Estácio de Sá.</h3>
+<h1 align="center">Olá 👋, eu sou o Matheus Silva</h1>
+<h3 align="center">Estudante na Estácio de Sá e apaixonado por desenvolvimento web e cinema nacional 🎬</h3>
 
-Projects: </br>
--Responsive portifolio [Thalita Website](https://thalitacilene.netlify.app/) </br>
--Full Website for Reserva Cultural São Paulo / Niterói (https://cinema-reserva-cultural.vercel.app/)
+---
 
-🌱 I’m currently learning **JavaScript, Java, Python...**
+### 🌟 Sobre Mim:
+- 🎓 Atualmente estudando **JavaScript, Java e Python** para aprimorar minhas habilidades em desenvolvimento.
+- 💡 Tenho interesse em projetos voltados para **web design responsivo** e **experiência do usuário**.
+- 🎥 Grande admirador do cinema nacional e trabalho em projetos inspirados por ele.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🚀 Projetos:
+- **[Thalita Website](https://thalitacilene.netlify.app/):** Um portfólio responsivo com design moderno e usabilidade intuitiva.
+- **[Reserva Cultural](https://cinemareservacultural.netlify.app/):** Website completo inspirado no cinema Reserva Cultural de São Paulo/Niterói.
+
+---
+
+### 📫 Conecte-se comigo:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-ribeiro-465861231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-ribeiro-465861231/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matheus-ribeiro-465861231/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Tecnologias e Ferramentas:
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🌱 Próximos Passos:
+- Aprofundar conhecimentos em frameworks como **React.js** e **Spring Boot**.
+- Contribuir para projetos de código aberto e construir soluções inovadoras.
+
+---
+
+Se você gostou do meu trabalho, não esqueça de deixar uma ⭐ nos meus repositórios!
