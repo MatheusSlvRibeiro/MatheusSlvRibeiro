@@ -1,5 +1,6 @@
 <h1 align="start">Olá! Eu sou o Matheus Ribeiro</h1>
-<h3 align="start">Sou desenvolvedor web com foco em React, com experiência em Python, JavaScript e Django. Tenho uma forte compreensão de design UI/UX, o que me permite criar interfaces intuitivas e responsivas, garantindo uma experiência de usuário excelente.</h3>
+<h4 align="start">Desenvolvedor de software e Desenvolvedor Web</h4>
+<p align="start">Sou desenvolvedor web com foco em React, com experiência em Python, JavaScript e Django. Tenho uma forte compreensão de design UI/UX, o que me permite criar interfaces intuitivas e responsivas, garantindo uma experiência de usuário excelente.</p>
 
 ---
 
