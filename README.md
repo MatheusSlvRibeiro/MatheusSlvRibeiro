@@ -5,6 +5,7 @@
 
 ### 🌟 Habilidades:
 <p>Durante meus estudos, me aprimorei em tecnologias populares e eficientes, como React, Node.js, Java e Firebase. Essas ferramentas me permitiram desenvolver aplicações modernas, escaláveis e de alto desempenho, tanto no frontend quanto no backend. Além disso, consolidei minha experiência em HTML, CSS e JavaScript, fundamentais para o desenvolvimento web, com foco especial em React.js para a criação de interfaces dinâmicas.</p>
+
 ---
 
 ### 🚀 Projetos:
