@@ -34,9 +34,7 @@
 
 ---
 
-### 🚀 Projetos:
-- **[Thalita Website](https://thalitacilene.netlify.app/):** Um portfólio responsivo com design moderno e usabilidade intuitiva.
-- **[Reserva Cultural](https://cinemareservacultural.netlify.app/):** Website completo inspirado no cinema Reserva Cultural de São Paulo/Niterói.
+### 🚀 Portifólio: **(https://matheusribeiro.vercel.app/):** 
 
 ---
 
