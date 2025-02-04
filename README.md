@@ -47,10 +47,4 @@
 
 ---
 
-### 🌱 Próximos Passos:
-- Aprofundar conhecimentos em frameworks como **React.js** e **Spring Boot**.
-- Contribuir para projetos de código aberto e construir soluções inovadoras.
-
----
-
 Se você gostou do meu trabalho, não esqueça de deixar uma ⭐ nos meus repositórios!
