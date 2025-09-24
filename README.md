@@ -1,24 +1,18 @@
-<h1 align="start">👋 Olá!</h1>
-<h3 align="start">Desenvolvedor Fullstack | Python • Django REST • React • TypeScript | JavaScript</h3>
+<h1 align="center">👋 Olá! Seja bem-vindo ao meu GitHub!</h1>
 
-<p align="start">
-Sou desenvolvedor Fullstack com foco em <strong>backend em Python/Django REST Framework</strong> e 
-<strong>frontend em React + TypeScript | JavaScript</strong>.  
-Tenho experiência na <strong>criação de APIs RESTful seguras</strong>, gerenciamento avançado de permissões, 
-integração de autenticação JWT, além de documentação com <strong>Swagger/OpenAPI</strong>.  
-
-No frontend, desenvolvo interfaces modulares com <strong>React + MUI</strong>, aplicando boas práticas de UX/UI, 
-integrações tipadas com backend e lógica condicional por permissões.  
-Busco sempre alinhar <strong>domínio de negócio, consistência de dados e evolução incremental segura</strong>.
+<p align="center">
+Eu sou <strong>Matheus Ribeiro</strong>, desenvolvedor <strong>Fullstack</strong> apaixonado por construir aplicações escaláveis e seguras.  
+Tenho experiência em <strong>backend com Python/Django REST</strong> e <strong>frontend com React + TypeScript | JavaScript</strong>.  
+Explore meus repositórios para conhecer projetos com arquitetura limpa, UX consistente e integrações robustas.
 </p>
 
 ---
 
-### 🌟 Principais Habilidades
-- **Backend:** Python, Django, Django REST Framework, PostgreSQL, JWT, Node.js (Express)  
-- **Frontend:** React, **TypeScript | JavaScript**, Material UI, Tailwind  
-- **Outros:** Docker, Git/GitHub, Swagger/OpenAPI, Firebase, Java  
-- **Boas práticas:** versionamento claro, refatoração progressiva, modelagem de domínio para sistemas do agronegócio  
+### 🌟 Minhas habilidades
+- 💻 **Backend:** Python, Django, Django REST Framework, PostgreSQL, JWT, Node.js (Express)  
+- 🎨 **Frontend:** React, **TypeScript | JavaScript**, Material UI, Tailwind  
+- ⚙️ **Outros:** Docker, Git/GitHub, Swagger/OpenAPI, Firebase, Java  
+- 📌 **Boas práticas:** versionamento claro, refatoração progressiva, modelagem de domínio para sistemas de agronegócio  
 
 ---
 
