@@ -11,7 +11,7 @@ Explore meus repositórios para conhecer projetos com arquitetura limpa, UX cons
 ### 🌟 Minhas habilidades
 - 💻 **Backend:** Python, Django, Django REST Framework, PostgreSQL, JWT, Node.js (Express)  
 - 🎨 **Frontend:** React, **TypeScript | JavaScript**, Material UI, Tailwind  
-- ⚙️ **Outros:** Docker, Git/GitHub, Swagger/OpenAPI, Firebase, Java  
+- ⚙️ **Outros:** Docker, Git/GitHub, Swagger, Firebase, Java  
 - 📌 **Boas práticas:** versionamento claro, refatoração progressiva, modelagem de domínio para sistemas de agronegócio  
 
 ---
