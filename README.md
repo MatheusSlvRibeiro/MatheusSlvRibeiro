@@ -1,6 +1,6 @@
 <p>
   Desenvolvedor Fullstack focado em automação e na criação de projetos escaláveis que resolvem problemas reais.<br>
-  Atuo com Python/Django no backend e React + TypeScript no frontend, sempre priorizando arquitetura limpa, segurança e manutenibilidade.  
+  Atuo com Python/Django no backend e React + TypeScript no frontend, sempre priorizando arquitetura limpa, segurança e manutenabilidade.  
 </p>
 
 <p>
