@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  Atualmente desenvolvo um MVP para o agronegócio, integrando Django REST e React TypeScript para gestão completa de fazendas, com foco em eficiência operacional e fluxo de dados otimizado.  
+  Atualmente estou colaborando em um MVP para o agronegócio, integrando Django REST e React TypeScript para gestão completa de fazendas, com foco em eficiência operacional e fluxo de dados otimizado.  
 </p>
 
 ---
