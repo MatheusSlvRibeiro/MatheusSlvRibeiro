@@ -26,49 +26,6 @@ Busco oportunidade de **estágio em desenvolvimento Fullstack ou Backend**, onde
 
 ---
 
-## 🛠️ Projetos em Destaque
-
-### 🌱 Sistema de Gestão para Agronegócio (MVP)
-**Projeto em desenvolvimento**
-
-- Backend em **Django REST**
-- Frontend em **React + TypeScript**
-- Autenticação JWT e controle de permissões
-- Gestão de fazendas, funcionários, estoque e atividades
-- Estrutura orientada a domínio, focada em escalabilidade
-- Integração eficiente entre frontend e backend
-
-> Projeto voltado para otimizar processos operacionais e centralizar dados de produtores rurais.  
-> Repositório privado.
-
----
-
-### 💰 Finance Control — Backend
-**API REST para controle financeiro**
-
-- Desenvolvido em **Django REST Framework**
-- Autenticação com **JWT**
-- Modelagem de entidades financeiras (entradas, saídas, categorias)
-- Organização por camadas e boas práticas de API
-- Preparado para consumo por aplicações frontend
-
-> Repositório independente, focado exclusivamente no backend.
-
----
-
-### 💰 Finance Control — Frontend
-**Interface web para controle financeiro**
-
-- Desenvolvido em **React + TypeScript**
-- Consumo da API Finance Control Backend
-- Componentização e reutilização de UI
-- Organização de fluxos financeiros e visualização clara dos dados
-- Integração direta com autenticação JWT
-
-> Projeto separado do backend, simulando um ambiente real de integração entre aplicações.
-
----
-
 ## 🧩 Habilidades Técnicas
 
 ### 🔹 Backend
