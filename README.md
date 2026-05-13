@@ -8,7 +8,7 @@ Tenho experiência prática em projetos reais, participando desde a definição 
 ---
 
 ## 🎯 Objetivo
-Busco oportunidade de **estágio em desenvolvimento Fullstack ou Backend**, onde eu possa:
+Busco oportunidade de **vaga júnior em desenvolvimento Fullstack ou Backend**, onde eu possa:
 - Atuar em projetos reais
 - Evoluir tecnicamente com times experientes
 - Contribuir com código de qualidade, documentação e melhorias contínuas
@@ -55,7 +55,7 @@ Busco oportunidade de **estágio em desenvolvimento Fullstack ou Backend**, onde
 
 ## 🌐 Contato
 <p align="left">
-  <a href="https://www.linkedin.com/in/matheus-ribeiro-465861231/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheusslvribeiro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
   <img width="8"/>
@@ -67,3 +67,4 @@ Busco oportunidade de **estágio em desenvolvimento Fullstack ou Backend**, onde
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
+
