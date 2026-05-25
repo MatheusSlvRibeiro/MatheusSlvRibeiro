@@ -7,14 +7,6 @@ Tenho experiência prática em projetos reais, participando desde a definição 
 
 ---
 
-## 🎯 Objetivo
-Busco oportunidade de **vaga júnior em desenvolvimento Fullstack, Frontend ou Backend**, onde eu possa:
-- Atuar em projetos reais
-- Evoluir tecnicamente com times experientes
-- Contribuir com código de qualidade, documentação e melhorias contínuas
-
----
-
 ## 🚀 Sobre mim
 - Desenvolvimento de **APIs REST robustas** com Django REST Framework
 - Autenticação e autorização com **JWT**
